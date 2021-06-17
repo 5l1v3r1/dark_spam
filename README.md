@@ -45,5 +45,11 @@ if this command does not work , try this
 
 - `python3 dark_spam.py`
 
+and enter how many times you want this message to send , then type your message 
+
+and you must going to the application / website you want and then open the chat and let dark spam work in the background 
+
+note : don't exit the chat , and don't close the application / website while the script sending the messages 
+
 
 ###### made with love by using Linux and open source programs :heart:
